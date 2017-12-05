@@ -1,0 +1,99 @@
+Paper	Noah	104	10	9
+Rock	Liam	102	7	2
+Rock	Mason	107	9	2
+Scissor	Jacob	112	7	
+Rock	William	80	2	1
+Scissor	Ethan	81	8	
+Scissor	James	86	5	
+Rock	Alexander	107	9	1
+Rock	Michael	80	7	2
+Paper	Benjamin	80	7	8
+Paper	Elijah	84	6	2
+Paper	Daniel	107	1	4
+Paper	Aiden	95	1	7
+Paper	Logan	91	4	6
+Paper	Matthew	90	8	4
+Rock	Lucas	110	2	4
+Scissor	Jackson	92	10	
+Rock	David	114	5	4
+Paper	Oliver	93	9	5
+Scissor	Jayden	82	9	
+Scissor	Joseph	100	1	
+Rock	Gabriel	105	10	3
+Rock	Samuel	92	5	4
+Rock	Carter	107	8	3
+Paper	Anthony	107	6	2
+Rock	John	92	8	2
+Scissor	Dylan	117	10	
+Rock	Luke	112	10	4
+Rock	Henry	110	2	3
+Scissor	Andrew	112	3	
+Scissor	Isaac	101	3	
+Rock	Christopher	108	6	3
+Paper	Joshua	106	10	6
+Paper	Wyatt	104	7	1
+Scissor	Sebastian	85	7	
+Rock	Owen	95	4	4
+Rock	Caleb	89	8	3
+Paper	Nathan	114	8	9
+Scissor	Ryan	80	6	
+Paper	Jack	104	6	7
+Scissor	Hunter	93	8	
+Rock	Levi	88	7	4
+Rock	Christian	97	5	3
+Scissor	Jaxon	87	4	
+Rock	Julian	109	3	1
+Rock	Landon	82	3	1
+Scissor	Grayson	112	1	
+Paper	Jonathan	111	1	8
+Paper	Isaiah	88	1	2
+Rock	Charles	106	8	2
+Paper	Thomas	91	6	5
+Paper	Aaron	92	7	6
+Paper	Eli	93	7	6
+Scissor	Connor	97	5	
+Scissor	Jeremiah	98	1	
+Paper	Cameron	114	4	3
+Paper	Josiah	119	10	4
+Scissor	Adrian	113	6	
+Paper	Colton	82	9	7
+Paper	Jordan	85	8	10
+Paper	Brayden	85	3	5
+Paper	Nicholas	107	9	4
+Rock	Robert	101	7	4
+Rock	Angel	101	5	4
+Rock	Hudson	93	3	4
+Scissor	Lincoln	111	3	
+Paper	Evan	88	8	1
+Rock	Dominic	114	3	3
+Scissor	Austin	101	1	
+Scissor	Gavin	93	2	
+Scissor	Nolan	89	8	
+Rock	Parker	82	1	1
+Paper	Adam	119	1	2
+Rock	Chase	90	9	3
+Scissor	Jace	83	9	
+Rock	Ian	98	3	4
+Paper	Cooper	114	7	10
+Scissor	Easton	88	9	
+Scissor	Kevin	101	8	
+Rock	Jose	106	6	3
+Scissor	Tyler	113	2	
+Rock	Brandon	119	6	4
+Rock	Asher	88	9	3
+Scissor	Jaxson	83	4	
+Paper	Mateo	118	3	10
+Scissor	Jason	97	4	
+Scissor	Ayden	98	3	
+Paper	Zachary	92	1	6
+Rock	Carson	110	8	1
+Rock	Xavier	115	1	3
+Paper	Leo	94	4	2
+Paper	Ezra	97	3	10
+Rock	Bentley	100	2	4
+Scissor	Sawyer	112	6	
+Scissor	Kayden	108	1	
+Paper	Blake	105	5	4
+Rock	Nathaniel	108	10	4
+Scissor	Ryder	114	9	
+Scissor	Theodore	92	4	
